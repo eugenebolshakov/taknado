@@ -1,3 +1,7 @@
+# Eugene Bolshakov
+
+eugene.bolshakov@gmail.com
+
 ## Summary
 
 I am a software engineer with experience in full-stack software development for
@@ -27,15 +31,16 @@ Loco2 is an online journey planner and booking service for train and bus travel
 in the UK and Europe. I had been with the business from the very early days
 when I was the only developer working on the prototype, through multiple stages
 of growth, acquisition by SNCF (the French rail operator) in 2017 and
-subsequent expansion of the team. Prior to acquisition Loco2 had been a small
-team with a strong sense of ownership of all aspects of the product: everyone
-had a wide range of responsibilities and a say on decisions. We've built a
-culture of transparency, honesty and trust that together with lightweight but
-solid processes enabled both autonomy and effective collaboration. All
-developers had access to all data, communicated directly with customers and
-worked on and deployed all parts of the tech stack. The team was (and still is)
-distributed, optimised for remote work and all developers worked remotely (in
-the UK and Europe).
+subsequent expansion of the team.
+
+Prior to acquisition Loco2 had been a small team with a strong sense of
+ownership of all aspects of the product: everyone had a wide range of
+responsibilities and a say on decisions. We've built a culture of transparency,
+honesty and trust that together with lightweight but solid processes enabled
+both autonomy and effective collaboration. All developers had access to all
+data, communicated directly with customers and worked on and deployed all parts
+of the tech stack. The team was (and still is) distributed, optimised for
+remote work and all developers worked remotely (in the UK and Europe).
 
 The tech stack consisted of:
 
@@ -87,10 +92,11 @@ I've worked on websites for a few nonprofit arts organisations based in
 Australia, including The Australian Center for Photography, which is the
 country's leading arts centre for the exhibition and publication of, and
 education in photo-based practice and INAPAC which is the representative body
-for Performing Arts Centers in NSW and ACT, Australia. These projects required
-functionality like content management, e-Commerce, workshop enrolments
-management, events calendar, data sharing and reporting. In terms of technology
-these were Rails apps hosted on Linux VPS.
+for Performing Arts Centers in NSW and ACT, Australia.
+
+These projects required functionality like content management, e-Commerce,
+workshop enrolments management, events calendar, data sharing and reporting. In
+terms of technology these were Rails apps hosted on Linux VPS.
 
 #### Other projects
 
@@ -104,13 +110,14 @@ online platforms. I worked as part of a distributed team first remotely and
 then on-site. In terms of technology there were several Rails front-end apps
 and a Java backend initially hosted on dedicated Linux servers. The system was
 integrated with various 3rd party e-Commerce and shipping APIs, enabled
-inventory management including OCR to process manifests from suppliers. My role
-involved working on the Rails apps, collaborating with the marketing
+inventory management including OCR to process manifests from suppliers.
+
+My role involved working on the Rails apps, collaborating with the marketing
 department, managing the on-site development team. Eventually I took over
 maintenance of the entire codebase, worked on simplifying production and
 development infrastructure and automating routine processes.
 
-### 2006 - 2007 Web Developer at SPN Group, St Petersburg, Russia
+### 2006 - 2007 Web Developer at SPN Group. St Petersburg, Russia
 
 SPN Group was a publishing house that produced several magazines including the
 Russian version of the "Rolling Stone". I've worked as part of the web
