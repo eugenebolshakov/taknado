@@ -1,6 +1,7 @@
 # Eugene Bolshakov
 
-eugene.bolshakov@gmail.com
+* eugene.bolshakov@gmail.com
+* https://github.com/eugenebolshakov
 
 ## Summary
 
