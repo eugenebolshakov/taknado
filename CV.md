@@ -33,8 +33,7 @@ when I was the only developer working on the prototype, through multiple stages
 of growth, acquisition by SNCF (the French rail operator) in 2017 and
 subsequent expansion of the team.
 
-Prior to acquisition Loco2 had been a small team with a strong sense of
-ownership of all aspects of the product: everyone had a wide range of
+Prior to acquisition Loco2 had been a small team with a strong sense of ownership of all aspects of the product: everyone had a wide range of
 responsibilities and a say on decisions. We've built a culture of transparency,
 honesty and trust that together with lightweight but solid processes enabled
 both autonomy and effective collaboration. All developers had access to all
@@ -76,7 +75,7 @@ worked on or have been involved in these):
 More recently I worked on leading backend projects, maintaining the
 infrastructure, onboarding and mentoring new developers.
 
-### 2004 - 2012: Remote contract work
+### 2004 - Present: Remote contract work
 
 I've worked on many projects as a remote contractor. Some examples: 
 
@@ -97,6 +96,15 @@ for Performing Arts Centers in NSW and ACT, Australia.
 These projects required functionality like content management, e-Commerce,
 workshop enrolments management, events calendar, data sharing and reporting. In
 terms of technology these were Rails apps hosted on Linux VPS.
+
+#### Bamboo Turtle
+
+Bamboo Turtle is a zero-waste shop (that sells unpackaged goods, many by
+weight) in Letchworth. I've worked on a small app to sync stock between the POS
+system (ePosNow) used in the shop and their e-commerce website
+(Wordpress/WooCommerce). The app is written in Ruby, uses Airtable and is
+deployed to AWS lambda using Serverless framework. The code is available on
+github: https://github.com/bamboo-turtle/sync
 
 #### Other projects
 
