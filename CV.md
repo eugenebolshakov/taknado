@@ -34,7 +34,8 @@ when I was the only developer working on the prototype, through multiple stages
 of growth, acquisition by SNCF (the French rail operator) in 2017 and
 subsequent expansion of the team.
 
-Prior to acquisition Loco2 had been a small team with a strong sense of ownership of all aspects of the product: everyone had a wide range of
+Prior to acquisition Loco2 had been a small team with a strong sense of
+ownership of all aspects of the product: everyone had a wide range of
 responsibilities and a say on decisions. We've built a culture of transparency,
 honesty and trust that together with lightweight but solid processes enabled
 both autonomy and effective collaboration. All developers had access to all
@@ -140,7 +141,6 @@ State Technical University (Russia), 2006.
 
 ## Background
 
-I'm originally from Russia, but have been living in the UK since 2012 and I
-have an Indefinite Leave to Remain, which allows me to live and work in the UK
-without any restrictions. I currently live in Letchworth Garden City,
-Hertfordshire.
+I'm originally from Russia, but have been living in the UK since 2012 and have
+dual citizenship: British and Russian. I currently live in Letchworth Garden
+City, Hertfordshire.
