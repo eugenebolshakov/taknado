@@ -15,7 +15,7 @@ up with pragmatic, simple solutions where possible and managing complexity when
 it's inevitable, communicating effectively with both non-tech and tech people.
 
 Some of the technologies, tools and techniques that I've used extensively:
-ruby, rails, postgres, docker, terraform, AWS, TDD, CI/CD.
+ruby, rails, elixir/phoenix, postgres, docker, terraform, AWS, TDD, CI/CD.
 
 ## What I'm looking for
 
@@ -26,9 +26,31 @@ elsewhere in the UK. Ideally I'd like to work on projects that align with the
 
 ## Past work
 
-### 2009 - Jan 2019: Senior Software Engineer at Loco2. London, UK
+### July 2019 - Present: Software Engineer at Good Club. London, UK
 
-Loco2 is an online journey planner and booking service for train and bus travel
+Good Club is an online supermarket aiming to make sustainable groceries
+accessible to more people. We entered a new phase of rapid growth when the
+Covid-19 pandemic broke out and many more customers started shopping online. We
+had to introduce new operational capacity and quickly scale it to meet the
+growing demand. I'm working alongside the CTO on the tech that powers our
+e-commerce site and warehouse operations.
+
+The tech stack consists of:
+
+* Elixir/phoenix monolith hosted on Heroku
+* Lightweight frontend built with StimulusJS/Turobolinks
+* AWS RDS Postgres database
+* Elasticsearch
+* CircleCI
+* Redash for data analysis
+
+Most recent challenge: migrating from a dropshipping arrangement to our own
+warehouse and building the tech to support the operations from scratch in a
+short time frame while keeping the storefront operational.
+
+### 2009 - Jan 2019: Senior Software Engineer at Loco2 (now RailEurope). London, UK
+
+RailEurope is an online journey planner and booking service for train and bus travel
 in the UK and Europe. I had been with the business from the very early days
 when I was the only developer working on the prototype, through multiple stages
 of growth, acquisition by SNCF (the French rail operator) in 2017 and
