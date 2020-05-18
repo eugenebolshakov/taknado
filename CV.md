@@ -37,7 +37,7 @@ e-commerce site and warehouse operations.
 
 The tech stack consists of:
 
-* Elixir/phoenix monolith hosted on Heroku
+* Elixir/Phoenix monolith hosted on Heroku
 * Lightweight frontend built with StimulusJS/Turobolinks
 * AWS RDS Postgres database
 * Elasticsearch
@@ -120,6 +120,17 @@ for Performing Arts Centers in NSW and ACT, Australia.
 These projects required functionality like content management, e-Commerce,
 workshop enrolments management, events calendar, data sharing and reporting. In
 terms of technology these were Rails apps hosted on Linux VPS.
+
+#### Flight Free UK
+
+Flight Free UK is a campaign which asks people to pledge to stay grounded for a
+year in order to reduce their carbon footprint, re-discover the joys of
+overland travel, and start to shift the social norm away from aviation.
+
+I helped build the website at https://flightfree.co.uk which is a static
+website made using Markdown, Middleman, TailwindCSS, NetlifyCMS and hosted on
+Netlify. The source code is available on Github:
+https://github.com/Flight-Free-UK/flight_free_uk_website
 
 #### Bamboo Turtle
 
