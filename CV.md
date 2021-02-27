@@ -28,12 +28,13 @@ http://www.techforgood.global/principles/
 
 ### July 2019 - Present: Software Engineer at Good Club. London, UK
 
-Good Club is an online supermarket aiming to make sustainable groceries
-accessible to more people. We entered a new phase of rapid growth when the
-Covid-19 pandemic broke out and many more customers started shopping online. We
-had to introduce new operational capacity and quickly scale it to meet the
-growing demand. I'm working alongside the CTO on the tech that powers our
-e-commerce site and warehouse operations.
+[Good Club](https://www.goodclub.co.uk) is an online supermarket aiming to make
+sustainable groceries accessible to more people. We entered a new phase of
+rapid growth when the Covid-19 pandemic broke out and many more customers
+started shopping online. We had to introduce new operational capacity and
+quickly scale it to meet the growing demand. I'm working alongside the CTO and
+growing tech team on the tech that powers our e-commerce site and warehouse
+operations.
 
 The tech stack consists of:
 
@@ -44,17 +45,21 @@ The tech stack consists of:
 * CircleCI
 * Redash for data analysis
 
-Most recent challenge: migrating from a dropshipping arrangement to our own
-warehouse and building the tech to support the operations from scratch in a
-short time frame while keeping the storefront operational.
+Most recent challenges:
+
+* Migrating from a dropshipping arrangement to our own warehouse and building
+  the tech to support the operations from scratch in a short time frame while
+  keeping the storefront operational.
+* Launching a 'zero waste' offering: shipping all orders in reusable boxes and
+  selling a range of products in reusable containers to reduce packaging waste.
 
 ### 2009 - Jan 2019: Senior Software Engineer at Loco2 (now RailEurope). London, UK
 
-RailEurope is an online journey planner and booking service for train and bus travel
-in the UK and Europe. I had been with the business from the very early days
-when I was the only developer working on the prototype, through multiple stages
-of growth, acquisition by SNCF (the French rail operator) in 2017 and
-subsequent expansion of the team.
+[RailEurope](https://www.raileurope.com) is an online journey planner and booking
+service for train and bus travel in the UK and Europe. I had been with the
+business from the very early days when I was the only developer working on the
+prototype, through multiple stages of growth, acquisition by SNCF (the French
+rail operator) in 2017 and subsequent expansion of the team.
 
 Prior to acquisition Loco2 had been a small team with a strong sense of
 ownership of all aspects of the product: everyone had a wide range of
