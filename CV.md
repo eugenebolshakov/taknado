@@ -19,10 +19,10 @@ ruby, rails, elixir/phoenix, postgres, docker, terraform, AWS, TDD, CI/CD.
 
 ## What I'm looking for
 
-I'm looking for part-time (up to 30 hours/week) remote work with flexible
-hours. I can of course occasionally work on-site and attend meetings in London
-or elsewhere in the UK. Ideally I'd like to work on projects that align with
-the "Tech for Good" principles: http://www.techforgood.global/principles/
+I'm looking for remote work with flexible hours. I can of course occasionally
+work on-site and attend meetings in London or elsewhere in the UK. Ideally I'd
+like to work on projects that align with the "Tech for Good" principles:
+http://www.techforgood.global/principles/
 
 ## Past work
 
