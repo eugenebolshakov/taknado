@@ -26,20 +26,21 @@ http://www.techforgood.global/principles/
 
 ## Past work
 
-### July 2019 - Present: Software Engineer at Good Club. London, UK
+### July 2019 - Present: Senior Software Engineer at Good Club. London, UK
 
 [Good Club](https://www.goodclub.co.uk) is an online supermarket aiming to make
 sustainable groceries accessible to more people. We entered a new phase of
 rapid growth when the Covid-19 pandemic broke out and many more customers
 started shopping online. We had to introduce new operational capacity and
-quickly scale it to meet the growing demand. I'm working alongside the CTO and
-growing tech team on the tech that powers our e-commerce site and warehouse
-operations.
+quickly scale it to meet the growing demand. I'm working alongside the CTO as
+part of the growing tech team on the tech that powers our e-commerce site and
+warehouse operations.
 
 The tech stack consists of:
 
 * Elixir/Phoenix monolith hosted on Heroku
-* Lightweight frontend built with StimulusJS/Turobolinks
+* Oban for background jobs
+* Lightweight frontend built with StimulusJS, Turobolinks and TailwindCSS
 * AWS RDS Postgres database
 * Elasticsearch
 * CircleCI
@@ -52,6 +53,7 @@ Most recent challenges:
   keeping the storefront operational.
 * Launching a 'zero waste' offering: shipping all orders in reusable boxes and
   selling a range of products in reusable containers to reduce packaging waste.
+* Work on tracking and improving efficiency of our warehouse operations.
 
 ### 2009 - Jan 2019: Senior Software Engineer at Loco2 (now RailEurope). London, UK
 
