@@ -5,8 +5,9 @@
 
 ## Summary
 
-I am a software engineer with experience in full-stack software development for
-the web, devops, technical leadership, hiring, mentoring and remote work.
+I am a product-minded software engineer with experience in full-stack software
+development for the web, devops, technical leadership, hiring, mentoring and
+remote work.
 
 I've worked on both greenfield projects and legacy systems, as a single
 developer and as part of a team, remotely and on-site. I believe I'm capable of
@@ -15,14 +16,17 @@ up with pragmatic, simple solutions where possible and managing complexity when
 it's inevitable, communicating effectively with both non-tech and tech people.
 
 Some of the technologies, tools and techniques that I've used extensively:
-ruby, rails, elixir/phoenix, postgres, docker, terraform, AWS, TDD, CI/CD.
+ruby, rails, elixir, phoenix, postgres, docker, terraform, AWS, TDD, CI/CD.
 
 ## What I'm looking for
 
-I'm looking for remote work with flexible hours. I can of course occasionally
-work on-site and attend meetings in London or elsewhere in the UK. Ideally I'd
-like to work on projects that align with the "Tech for Good" principles:
-http://www.techforgood.global/principles/
+I'm looking for opportunities that would provide the two things that motivate
+me most: using tech to solve meaningful problems and learning, especially from
+people who I work with.  Ideally I'd like to work on projects that align with
+the "Tech for Good" principles: http://www.techforgood.global/principles/. I'm
+also looking for remote work with flexible hours (although I'd be happy to
+occasionally work on-site and attend meetings in London or elsewhere in the
+UK).
 
 ## Past work
 
@@ -108,7 +112,7 @@ infrastructure, onboarding and mentoring new developers.
 
 ### 2004 - Present: Remote contract work
 
-I've worked on many projects as a remote contractor. Some examples: 
+I've worked on many projects as a remote contractor. Some examples:
 
 #### Shopify
 
@@ -128,7 +132,7 @@ These projects required functionality like content management, e-Commerce,
 workshop enrolments management, events calendar, data sharing and reporting. In
 terms of technology these were Rails apps hosted on Linux VPS.
 
-#### Flight Free UK
+#### Flight Free UK - Volunteer
 
 Flight Free UK is a campaign which asks people to pledge to stay grounded for a
 year in order to reduce their carbon footprint, re-discover the joys of
@@ -139,7 +143,7 @@ website made using Markdown, Middleman, TailwindCSS, NetlifyCMS and hosted on
 Netlify. The source code is available on Github:
 https://github.com/Flight-Free-UK/flight_free_uk_website
 
-#### Bamboo Turtle
+#### Bamboo Turtle - Volunteer
 
 Bamboo Turtle is a zero-waste shop (that sells unpackaged goods, many by
 weight) in Letchworth. I've worked on a small app to sync stock between the POS
