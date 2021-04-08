@@ -209,6 +209,16 @@ Russian version of the "Rolling Stone". I've worked as part of the web
 development team on a PHP framework / content management system behind the
 online versions of the magazines. 
 
+## Code samples
+
+Unfortunately I don't have much real code that I could share, but here are some
+small toy projects that I worked on:
+
+* https://github.com/eugenebolshakov/muster - a clone of game 2048 in
+  Elixir/Phoenix LiveView.
+* https://github.com/eugenebolshakov/raspberry_pi_test_task - a (fairly simple)
+  coding challenge in Ruby that I did as part of an interview process.
+
 ## Education
 
 CS Degree in "Automated Data Processing and Control Systems" from Astrakhan
