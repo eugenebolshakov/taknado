@@ -22,11 +22,42 @@ ruby, rails, elixir, phoenix, postgres, docker, terraform, AWS, TDD, CI/CD.
 
 I'm looking for opportunities that would provide the two things that motivate
 me most: using tech to solve meaningful problems and learning, especially from
-people who I work with.  Ideally I'd like to work on projects that align with
+people who I work with. Ideally I'd like to work on projects that align with
 the "Tech for Good" principles: http://www.techforgood.global/principles/. I'm
 also looking for remote work with flexible hours (although I'd be happy to
-occasionally work on-site and attend meetings in London or elsewhere in the
-UK).
+occasionally work on-site and attend meetings in the UK).
+
+## How I work
+
+Teams work differently and the way I work is determined by the way my teammates
+work, but generally I follow these guidelines:
+
+* Be comfortable to start with a loosely defined idea, work with teammates to
+  work out the details, scope and plan the work.
+* Identify and challenge the assumptions behind the idea / task to determine if
+  it's the right thing to do based on the high level priorities.
+* Gather data, formulate hypotheses in relation to the task and determine ways
+  to track the effects of the planned changes to prove them.
+* Break bigger pieces of work down, use story mapping when appropriate to
+  determine the scope of iterations.
+* Communicate asynchronously by default, but look out for situations requiring
+  real-time communication.
+* Write down summaries of progress and thinking on the task to enable
+  asynchronous communication with team members and for future reference.
+* Figure out ways to parallelise work to enable multiple people to work on the
+  task and share necessary context with team members.
+* Work on the code in small incremental changes, keep feature branches small,
+  integrate early using feature flags if necessary.
+* Always add automated tests, sometimes follow TDD, maintain the "Test
+  Pyramid".
+* Do refactoring of the existing code and tests as part of my day-to-day work,
+  be deliberate about accumulating technical debt.
+* Seek and provide feedback (e.g. via code reviews) on the work my teammates
+  and I are doing.
+* Ensure there's a solid base for CI/CD, like reasonable build times, automated
+  deployments and observability.
+* Be mindful of post-deployment work: monitoring, data collection to track the
+  effects of the change, clean-up (e.g. feature flags), retrospective, etc.
 
 ## Past work
 
