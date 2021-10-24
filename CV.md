@@ -10,13 +10,14 @@ development for the web, devops, technical leadership, hiring, mentoring and
 remote work.
 
 I've worked on both greenfield projects and legacy systems, as a single
-developer and as part of a team, remotely and on-site. I believe I'm capable of
-learning new things and finding my way around a complex system quickly, coming
-up with pragmatic, simple solutions where possible and managing complexity when
-it's inevitable, communicating effectively with both non-tech and tech people.
+developer and as part of a team, remotely and on-site, in early stage start-ups
+and established large corporations. I believe I'm capable of learning new
+things and finding my way around a complex system quickly, coming up with
+pragmatic, simple solutions where possible and managing complexity when it's
+inevitable, communicating effectively with both non-tech and tech people.
 
 Some of the technologies, tools and techniques that I've used extensively:
-ruby, rails, elixir, phoenix, postgres, docker, terraform, AWS, TDD, CI/CD.
+elixir, phoenix, ruby, rails, postgres, docker, terraform, AWS, TDD, CI/CD.
 
 ## What I'm looking for
 
@@ -61,7 +62,34 @@ work, but generally I follow these guidelines:
 
 ## Past work
 
-### July 2019 - Present: Senior Software Engineer at Good Club. London, UK
+### June 2021 - Present: Senior Software Engineer at BBC. London, UK
+
+The BBC is in the process of [migrating its entire website to the
+cloud](https://www.bbc.co.uk/blogs/internet/entries/8673fe2a-e876-45fc-9a5f-203c049c9f9c)
+and a new system called WebCore is being developed for that purpose. I work on
+a small team that is responsible for the routing and resiliency layer in that
+new system. The idea is that incoming traffic to the BBC website needs to be
+routed either to the new system or one of the previous legacy systems that have
+not been migrated yet. The layer also takes care of performance and resiliency
+by providing caching, circuit breakers and fallbacks for upstream layers.
+Finally it contains some shared functionality that would otherwise need to be
+implemented in every upstream layer, which makes development more efficient.
+Given its role, as basically the gateway to the BBC website, the layer
+processes tens of thousands of requests per second during peak times.
+
+I worked on implementing new features, investigating and fixing performance
+issues, improving documentation, code quality and development practices
+adopted by the team.
+
+The tech stack consists of:
+
+* A cluster of Elixir apps
+* Inftrastructure configuration using AWS CloudFormation
+* Custom organisation-wide CI/CD pipeline system
+* Telemetry/StatsD/AWS CloudWatch/Grafana for metrics and monitoring
+* Custom setup utilising Vegeta for performance testing
+
+### July 2019 - June 2021: Senior Software Engineer at Good Club. London, UK
 
 [Good Club](https://www.goodclub.co.uk) is an online supermarket aiming to make
 sustainable groceries accessible to more people. We entered a new phase of
@@ -227,5 +255,4 @@ State Technical University (Russia), 2006.
 ## Background
 
 I'm originally from Russia, but have been living in the UK since 2012 and have
-dual citizenship: British and Russian. I currently live in Letchworth Garden
-City, Hertfordshire.
+dual citizenship: British and Russian. I currently live in Sevenoaks, Kent.
