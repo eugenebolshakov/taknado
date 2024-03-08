@@ -22,10 +22,10 @@ elixir, phoenix, ruby, rails, postgres, docker, terraform, AWS, TDD, CI/CD.
 ## What I'm looking for
 
 I'm looking for opportunities that would provide the two things that motivate
-me most: using tech to solve meaningful problems and learning, especially from
-people who I work with. Ideally I'd like to work on projects that align with
-the "Tech for Good" principles: http://www.techforgood.global/principles/. I'm
-also looking for remote work with flexible hours (although I'd be happy to
+me the most: using tech to solve meaningful problems and learning, especially
+from people who I work with. Ideally I'd like to work on projects that align
+with the "Tech for Good" principles: http://www.techforgood.global/principles/.
+I'm also looking for remote work with flexible hours (although I'd be happy to
 occasionally work on-site and attend meetings in the UK).
 
 ## How I work
