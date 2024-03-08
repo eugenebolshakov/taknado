@@ -62,29 +62,32 @@ work, but generally I follow these guidelines:
 
 ## Past work
 
-### June 2021 - Present: Senior Software Engineer at BBC. London, UK
+### June 2021 - Dec 2021: Senior Software Engineer at BBC. London, UK
 
-The BBC is in the process of [migrating its entire website to the
+When I joined the BBC, they were in the process of [migrating their entire
+website to the
 cloud](https://www.bbc.co.uk/blogs/internet/entries/8673fe2a-e876-45fc-9a5f-203c049c9f9c)
-and a new system called WebCore is being developed for that purpose. I work on
-a small team that is responsible for the routing and resiliency layer in that
-new system. The idea is that incoming traffic to the BBC website needs to be
-routed either to the new system or one of the previous legacy systems that have
-not been migrated yet. The layer also takes care of performance and resiliency
-by providing caching, circuit breakers and fallbacks for upstream layers.
-Finally it contains some shared functionality that would otherwise need to be
-implemented in every upstream layer, which makes development more efficient.
-Given its role, as basically the gateway to the BBC website, the layer
-processes tens of thousands of requests per second during peak times.
+and a new system called WebCore was being developed for that purpose. I worked
+on a small team that was responsible for the routing and resiliency layer of
+that new system.
+
+The purpose of the system was routing incoming traffic to either the new system
+or one of the previous legacy systems that had not been migrated yet. It also
+took care of performance and resiliency by providing caching, circuit breakers
+and fallbacks for upstream layers. Finally it contained some shared
+functionality that would otherwise needed to be implemented in every upstream
+layer, which made development more efficient.  Given its role, as basically the
+gateway to the BBC website, the layer processed tens of thousands of requests
+per second during peak times.
 
 I worked on implementing new features, investigating and fixing performance
-issues, improving documentation, code quality and development practices
-adopted by the team.
+issues, improving documentation, code quality and development practices adopted
+by the team.
 
-The tech stack consists of:
+The tech stack consisted of:
 
 * A cluster of Elixir apps
-* Inftrastructure configuration using AWS CloudFormation
+* Infrastructure configuration using AWS CloudFormation
 * Custom organisation-wide CI/CD pipeline system
 * Telemetry/StatsD/AWS CloudWatch/Grafana for metrics and monitoring
 * Custom setup utilising Vegeta for performance testing
