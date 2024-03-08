@@ -62,6 +62,22 @@ work, but generally I follow these guidelines:
 
 ## Past work
 
+### Dec 2021 - present: Product Engineer at Teller. London, UK
+
+[Teller](https://teller.io) provides an API that US fintechs can use to access
+banking data of their users. There is nothing like OpenBanking in the US, so
+there is no standard way for 3rd parties to access banking data. Teller
+provides a solution by reverse-engineering the internal APIs that mobile
+banking apps use and integrates them into a simple, reliable and
+developer-friendly API that is trusted by some big names like
+[Ramp](https://ramp.com), [Pipe](https://pipe.com), [Brex](https://brex.com)
+and others.
+
+Alongside other product engineers I'm working on the main product (Teller
+banking API), integrations with financial institutions (Teller currently
+supports > 5k institutions), internal tooling, infrastructure and new products.
+The tech stack includes Elixir, Phoenix, Postgres, Go, AWS, Terraform.
+
 ### June 2021 - Dec 2021: Senior Software Engineer at BBC. London, UK
 
 When I joined the BBC, they were in the process of [migrating their entire
