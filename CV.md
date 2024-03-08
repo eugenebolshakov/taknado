@@ -260,4 +260,5 @@ State Technical University (Russia), 2006.
 ## Background
 
 I'm originally from Russia, but have been living in the UK since 2012 and have
-dual citizenship: British and Russian. I currently live in Sevenoaks, Kent.
+dual citizenship: British and Russian. I currently live in Tunbridge Wells,
+Kent.
