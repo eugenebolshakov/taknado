@@ -92,17 +92,19 @@ The tech stack consisted of:
 * Telemetry/StatsD/AWS CloudWatch/Grafana for metrics and monitoring
 * Custom setup utilising Vegeta for performance testing
 
-### July 2019 - June 2021: Senior Software Engineer at Good Club. London, UK
+### July 2019 - June 2021: Senior Software Engineer at Good Club (now Dizzie). London, UK
 
-[Good Club](https://www.goodclub.co.uk) is an online supermarket aiming to make
-sustainable groceries accessible to more people. We entered a new phase of
+[Good Club / Dizzie](https://getdizzie.com) was an online supermarket aiming to
+make sustainable groceries accessible to more people. We entered a new phase of
 rapid growth when the Covid-19 pandemic broke out and many more customers
 started shopping online. We had to introduce new operational capacity and
-quickly scale it to meet the growing demand. I'm working alongside the CTO as
-part of the growing tech team on the tech that powers our e-commerce site and
-warehouse operations.
+quickly scale it to meet the growing demand. We subsequently introduced a
+growing range of products in re-usable containers that would be delivered to
+and collected from customers. I worked alongside the CTO as part of the growing
+tech team on the tech that powered our e-commerce site and warehouse
+operations.
 
-The tech stack consists of:
+The tech stack consisted of:
 
 * Elixir/Phoenix monolith hosted on Heroku
 * Oban for background jobs
