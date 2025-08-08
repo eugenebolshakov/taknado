@@ -57,6 +57,27 @@ work, but generally I follow these guidelines:
 
 ## Past work
 
+### Dec 2024 - present: Senior Software Engineer at The Mobility Factory SCE. Remote
+
+[The Mobility Factory](https://themobilityfactory.coop/) or TMF is a platform
+cooperative that develops a solution for shared mobility. The platform is used
+by about two dozen of cooperatives spread across a few European countries that
+provide access to shared vehicles to their members.
+
+Those cooperatives vary in size, services that they provide and their operation
+style which is why the small team at TMF had to build a flexible and
+feature-rich platform. My role is to work with the tech team to find ways to
+improve the quality and stability of the platform and to improve developer
+productivity.
+
+Examples of projects that I worked on included introduction of
+infrastructure-as-code tool to manage the servers that host the platform;
+setting up an efficient system and process for responding to incidents for
+developers on the on-call rota; developing tech strategy in preparation for
+expansion of the tech team.
+
+Tech stack includes: Dart, Flutter, Firebase, Docker, Terraform, Ansible.
+
 ### Dec 2021 - Dec 2024: Product Engineer at Teller. London, UK
 
 [Teller](https://teller.io) provides an API that US fintechs can use to access
