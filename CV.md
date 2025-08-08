@@ -108,6 +108,7 @@ or one of the previous legacy systems that had not been migrated yet. It also
 took care of performance and resiliency by providing caching, circuit breakers
 and fallbacks for upstream layers. Finally it contained some shared
 functionality that would otherwise needed to be implemented in every upstream
+
 layer, which made development more efficient.  Given its role, as basically the
 gateway to the BBC website, the layer processed tens of thousands of requests
 per second during peak times.
@@ -124,7 +125,7 @@ The tech stack consisted of:
 * Telemetry/StatsD/AWS CloudWatch/Grafana for metrics and monitoring
 * Custom setup utilising Vegeta for performance testing
 
-### July 2019 - June 2021: Senior Software Engineer at Good Club (now Dizzie). London, UK
+### July 2019 - June 2021: Senior Software Engineer at Good Club (later Dizzie). London, UK
 
 [Good Club / Dizzie](https://getdizzie.com) was an online supermarket aiming to
 make sustainable groceries accessible to more people. We entered a new phase of
@@ -177,24 +178,24 @@ The tech stack consisted of:
 * Monolith Rails app (which evolved from the original prototype and was kept up
 to date with the recent versions of ruby, rails and other dependencies).
 * Ruby module for routing and interacting with booking operator's APIs (often
-SOAP, some REST). 
+SOAP, some REST).
 * iOS (Swift) and Android (Kotlin) apps which are thin wrappers around WebView.
 * React/TypeScript frontend: we've started to migrate the original Rails/JQuery
 MPA to a React SPA.
 * Hosting on AWS using docker and ECS with autoscaling, Postgres RDS, Redis
 ElastiCache.
-* Infrastructure as code using Terraform. 
+* Infrastructure as code using Terraform.
 * Continuous integration using TravisCI (automated tests, visual regression
 testing, docker builds).
 * Continuous deployment: a push to master in git triggers a build and automatic
-deployment to production on success. 
+deployment to production on success.
 * Various tools for data analysis: Librato, Papertrail, Mixpanel, Blazer.
 
 Some of the challenges we've had to address while building Loco2 (I have either
 worked on or have been involved in these):
 
 * Prioritisation and focus to get things done while being a small team.
-* Integration of (often ancient) 3rd party booking APIs. 
+* Integration of (often ancient) 3rd party booking APIs.
 * Maintaining large dataset of station data.
 * PCI DSS compliance and payment fraud.
 * Minimising operations overhead (cloud hosting, monitoring, scaling, CD).
@@ -272,7 +273,7 @@ development infrastructure and automating routine processes.
 SPN Group was a publishing house that produced several magazines including the
 Russian version of the "Rolling Stone". I've worked as part of the web
 development team on a PHP framework / content management system behind the
-online versions of the magazines. 
+online versions of the magazines.
 
 ## Code samples
 
