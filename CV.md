@@ -41,20 +41,15 @@ work, but generally I follow these guidelines:
   to track the effects of the planned changes to prove them.
 * Break bigger pieces of work down, use story mapping when appropriate to
   determine the scope of iterations.
-* Communicate asynchronously by default, but look out for situations requiring
-  real-time communication.
-* Write down summaries of progress and thinking on the task to enable
-  asynchronous communication with team members and for future reference.
-* Figure out ways to parallelise work to enable multiple people to work on the
-  task and share necessary context with team members.
-* Work on the code in small incremental changes, keep feature branches small,
-  integrate early using feature flags if necessary.
-* Always add automated tests, sometimes follow TDD, maintain the "Test
-  Pyramid".
+* Use communication methods (real-time or asynchronously) appropriate to the task.
+* Write down summaries of progress and thinking on the task to provide updates to 
+  stakeholders and for future reference.
+* Work on the code in small incremental changes, integrate early, use feature flags
+  if necessary.
+* Always add automated tests, maintain the "Test Pyramid".
 * Do refactoring of the existing code and tests as part of my day-to-day work,
   be deliberate about accumulating technical debt.
-* Seek and provide feedback (e.g. via code reviews) on the work my teammates
-  and I are doing.
+* Seek and provide feedback on the work my teammates and I are doing.
 * Ensure there's a solid base for CI/CD, like reasonable build times, automated
   deployments and observability.
 * Be mindful of post-deployment work: monitoring, data collection to track the
